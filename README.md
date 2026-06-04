@@ -1,5 +1,3 @@
-# mcoaiorg.github.io
-
 
 # Introducing MCO Build Lab – Build the Perfect Discord Server in Minutes
 
